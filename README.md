@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.noner.cn/my-github-repos)
 * [服务自启](https://www.noner.cn/articles/2019/10/15/1571142358660.html)
 * [环境搭建](https://www.noner.cn/articles/2019/09/30/1569818674405.html)
 * [博客搭建](https://www.noner.cn/articles/2019/09/12/1568223795433.html)
