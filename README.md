@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [代码整洁之道](https://www.noner.cn/articles/2019/10/20/1571573321937.html)
 * [我在 GitHub 上的开源项目](https://www.noner.cn/my-github-repos)
 * [服务自启](https://www.noner.cn/articles/2019/10/15/1571142358660.html)
 * [环境搭建](https://www.noner.cn/articles/2019/09/30/1569818674405.html)
